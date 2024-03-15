@@ -37,7 +37,7 @@
 # remember
 read well the requirements and this article before opening the required section we are not responsible for any miscarriages occurred
 
-MIT License
+# MIT License
 
 Copyright (c) 2024 Venocyber-wifi-password-show
  
