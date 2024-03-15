@@ -85,6 +85,20 @@ you can join venocyber innovation team by clicking the button below do have any 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=welcome;to;%20our+innovation;%20world%20you're%our%20;precious🔮💞💞💕💻💻🌹)
 <p align="center">
 
+- 💫 I’m currently working on [Venocyber-Md-Bot](https://github.com/Kingjux/Venocyber-Md-Bot)
+
+- 📫 [How to reach me!](https://github.com/Kingjux/kingjux/blob/main/README.md#-how-to-reach-me)
+
+- ⚡ Always ready to help!
+
+---
+
+## 📊 Stats
+
+[![Metrics](https://metrics.lecoq.io/insights/kingjux)](https://github.com/kingjux/venocyberGPT)
+
+---
+
 
 ## Technologies Used
 
