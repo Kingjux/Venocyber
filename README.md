@@ -49,7 +49,7 @@ read well the requirements and this article before opening the required section 
 
 
 
-     
+ 
 
 # MIT License
 
@@ -72,3 +72,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- WebRTC
+- Socket.io
