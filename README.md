@@ -1,4 +1,14 @@
 # Venocyber wifi password show
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;Iit's+me,+venocyber-tech!;Welcome;To+my+venocyber+wifi+password+breaker;web+created,by+kingjux🇹🇿+world!🚀"
+            alt="Typing SVG"
+        /
+        >
+    </a>
+</p>
+</div>
+
+
 
   <a href="https://github.com/Kingjux/Venocyber-md-bot">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/03f4ca62a8f5b7bc43b5c.jpg">
